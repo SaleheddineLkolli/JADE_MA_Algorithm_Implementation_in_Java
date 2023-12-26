@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d36ce72-c0f4-4684-af81-7ed44d844e74" name="Changes" comment="Added SMA for 0/1 and for Chars (&quot;BONJOUR BDCC&quot;)">
+      <change beforePath="$PROJECT_DIR$/src/main/java/GAWithChars/GAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GAWithChars/GAUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SMA_WithChars/IslandAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SMA_WithChars/IslandAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SMA_WithChars/MasterAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SMA_WithChars/MasterAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SMA_WithChars/SimpleContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SMA_WithChars/SimpleContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GAWithChars/GAApplication2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GAWithChars/GAApplication2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GAWithChars/GAUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GAWithChars/GAUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GAWithChars/GeneticAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GAWithChars/GeneticAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GAWithChars/Individual.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GAWithChars/Individual.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PhVFnXeUbQeNPTAj0jRKmX5xrd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HP 840 G3/Videos/SMA_GA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S4\AIMultiAgents\Genetic Algo\SMA_GA\SMA_GA\src\main\java\SMA_WithChars" />
+      <recent name="E:\ENSET\S4\AIMultiAgents\Genetic Algo\SMA_GA\SMA_GA\src\main\java\GAWithChars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SMA_WithChars.SimpleContainer">
+    <configuration name="GAApplication2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GAWithChars.GAApplication2" />
+      <module name="SMA_GA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GAWithChars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SMA_0And1.MainContainer" />
+      <module name="SMA_GA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SMA_0And1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SMA_WithChars.MainContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SMA_WithChars.MainContainer" />
+      <module name="SMA_GA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SMA_WithChars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SMA_WithChars.SimpleContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SMA_WithChars.SimpleContainer" />
+      <module name="SMA_GA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SMA_WithChars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SMA_0And1.SimpleContainer" />
+      <module name="SMA_GA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SMA_0And1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SMA_WithChars.SimpleContainer" />
+        <item itemvalue="Application.SMA_WithChars.MainContainer" />
+        <item itemvalue="Application.SimpleContainer" />
+        <item itemvalue="Application.MainContainer" />
+        <item itemvalue="Application.GAApplication2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d36ce72-c0f4-4684-af81-7ed44d844e74" name="Changes" comment="" />
+      <created>1683909201530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683909201530</updated>
+      <workItem from="1683909202794" duration="3220000" />
+      <workItem from="1684761532913" duration="7642000" />
+      <workItem from="1685110070557" duration="8086000" />
+      <workItem from="1685122559851" duration="142000" />
+    </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1684767923090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684767923090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added SMA for 0/1 and for Chars (&quot;BONJOUR BDCC&quot;)">
+      <created>1685117915757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685117915757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <MESSAGE value="Added SMA for 0/1 and for Chars (&quot;BONJOUR BDCC&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SMA for 0/1 and for Chars (&quot;BONJOUR BDCC&quot;)" />
+  </component>
+</project>
